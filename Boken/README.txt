@@ -1,49 +1,6 @@
 
+The objective of this project is to make a system to enable the user to plan their trip and get recommendations of nearby points of interest and attractions along the way and (or) or at the destination. The engine also recommends local guides and computes the total expense and duration of the whole trip.
 
 
-CREDITS:
+The System acts a platform for all enthusiasts who are passionate in travelling a lot and don't have an opportunity nor the time to plan and prepare for the Trip. This product is aimed at providing a user-friendly platform to all those users who are Enthusiastic in travelling and Exploring new Places. 
 
-Bootstrap
-http://getbootstrap.com/
-
-jQuery
-http://jquery.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Icomoon
-https://icomoon.io/app/
-
-Demo Images
-https://unsplash.com
-
-WayPoints
-http://imakewebthings.com/waypoints/
-
-Animate.css
-https://daneden.github.io/animate.css/
-
-Owl Slider
-owlcarousel2.github.io/OwlCarousel2/
-
-FontAwesome
-https://fontawesome.com/
-THEME: Places - Free Bootstrap 4 Theme
-AUTHOR: uiCookies.com
-LICENSE: Under Creative Commons 3.0 (uiCookies.com/license)
-AUTHOR URI: https://uiCookies.com/
-Twitter: https://twitter.com/probootstrap
-Facebook: https://facebook.com/probootstrap
-
-Ionicons
-https://ionicons.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Bootstrap DatePicker
-http://eternicode.github.io/bootstrap-datepicker/
-
-Select2
-https://select2.org/
