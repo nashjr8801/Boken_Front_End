@@ -1,9 +1,4 @@
-THEME: Places - Free Bootstrap 4 Theme
-AUTHOR: uiCookies.com
-LICENSE: Under Creative Commons 3.0 (uiCookies.com/license)
-AUTHOR URI: https://uiCookies.com/
-Twitter: https://twitter.com/probootstrap
-Facebook: https://facebook.com/probootstrap
+
 
 
 CREDITS:
@@ -34,6 +29,12 @@ owlcarousel2.github.io/OwlCarousel2/
 
 FontAwesome
 https://fontawesome.com/
+THEME: Places - Free Bootstrap 4 Theme
+AUTHOR: uiCookies.com
+LICENSE: Under Creative Commons 3.0 (uiCookies.com/license)
+AUTHOR URI: https://uiCookies.com/
+Twitter: https://twitter.com/probootstrap
+Facebook: https://facebook.com/probootstrap
 
 Ionicons
 https://ionicons.com/
